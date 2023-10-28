@@ -1,0 +1,26 @@
+{
+    "name": "Harkirat inghk",
+    "website": "https://github.com/Harry123001",
+    "linkedin": "https://www.linkedin.com/in/harkirat007/",
+    "github": "harry123001",
+    "email": "singhharkirat9090@gmail.com",
+    "resume": "https://docs.google.com/document/d/1_4751Jo98UzxIG2UkC_0h7sKrd2yvPCrgsmBTZ04nj8/edit?usp=sharing",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
+}
